@@ -18,6 +18,7 @@ public class hello {
 		return a*b;
 	}
 	
+	//divide
 	static public int divide(int a, int b) {
 		return a/b;
 	}	
