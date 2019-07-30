@@ -9,6 +9,7 @@ public class hello {
 		return a+b;
 	}
 	
+	//subtract
 	static public int subtract(int a, int b) {
 		return a-b;
 	}
